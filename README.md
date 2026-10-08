@@ -87,7 +87,7 @@ Based on the findings, ZoomRide should:
 
 - [My SQL Query Worksheet](zoomride_temitope.sql)
 
-- [Message to the Manager](zoomride_message_to_the_manager.docs)
+- [Message to the Manager](zoomride_message_to_manager.docx)
 
 ## Conclusion
 
