@@ -83,7 +83,7 @@ Based on the findings, ZoomRide should:
 
 ##  Files in This Repository
 
-- [Zoomride Dateset](zoomride_setup.txt)
+- [Zoomride Dataset](zoomride_setup.txt)
 
 - [My SQL Query Worksheet](zoomride_temitope.sql)
 
