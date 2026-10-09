@@ -85,9 +85,11 @@ Based on the findings, ZoomRide should:
 
 - [Zoomride Dataset](zoomride_setup.txt)
 
-- [My SQL Query Worksheet](zoomride_temitope.sql)
+- [SQL Query Worksheet](zoomride_temitope.sql)
 
 - [Message to the Manager](zoomride_message_to_manager.docx)
+
+- [Answer Sheet](zoomride_answers.txt)
 
 ## Conclusion
 
