@@ -1,0 +1,41 @@
+Q1: Total Trips
+-- There are a total of 300 trips recorded
+
+Q2: 5 longest completed trips
+-- The longest completed trips were to Lagos, Kampala and Abuja
+
+-- Part 2: Count by a group
+Q3: Number of trips by country
+-- NB: Some of the cities are duplicates due to inconsistent naming.
+-- The main cities are Lagos, Nairobi, Port-Harcourt, Abuja, Kampala, Accra
+
+-- Part 3: Clean the data
+Q4a: Duplicate trips
+-- Two duplicate trips were identified
+
+Q4b: Missing fare for completed trips
+-- There are 9 completed trips with no fare recorded.
+
+Q5: Fix the data
+a)Correct spelling errors in city 
+-- There are no incorrect city names in the data again. 6 unique cities are recorded.
+-- There are now 298 trips in the cleaned data
+
+Q6: Revenue by City
+-- Lagos generated the largest revenue with 218,890 followed by Accra, while Kampala generated the lowest revenue.
+
+Q7: Revenue by Month
+-- The highest revenue was recorded in December 2025 with 66,980 while the lowest revenue was in April 2026.
+-- People rode the most in December and rode the least in April
+
+
+Q8. Revenue by Vehicle Type
+-- There are 3 vehicle types: Economy, Comfort and Bike
+-- Economy earned the most money with 262550 Naira, followed by Comfort (239050), while Bike recorded the lowest revenue with 66870.
+
+Q9. Which customers have never booked a trip?
+-- Only 4 customers have never booked a trip before. They are; Bisi Ogunleye, Wanjiru Kamau, Akinyi Ouma, and Nakato Namutebi
+
+Q10. Who are the top 3 customers by total spend on Completed trips?
+-- The top 3 customers by total spend on completed trips are: Chioma Nwosu, Tunde Bakare and Zainab Garba
+
